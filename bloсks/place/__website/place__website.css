@@ -1,0 +1,10 @@
+.place__website {
+  font-family: "Inter", Arial, sans-serif;
+  align-self: end;
+  margin: 0;
+}
+@media screen and (max-width: 373px) {
+  .place__website {
+    margin: 0 16px 0;
+  }
+}
