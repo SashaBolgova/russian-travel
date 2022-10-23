@@ -11,6 +11,6 @@
 6. Работа с макетом в Figma;
 7. Оптимизация фотографий в Squoosh;
 
-Ссылка на проект https://SashaBolgova.github.io/russian-travel/index.html
+Ссылка на проект https://sashabolgova.github.io/russian-travel/
 
 Данный проект направляен для ревью специалисту **ЯндексПрактикума**.
