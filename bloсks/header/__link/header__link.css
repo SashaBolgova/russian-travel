@@ -14,9 +14,6 @@
   margin: 0;
 }
 
-.header__link:focus {
-  text-decoration: underline;
-}
 
 @media screen and (max-width: 373px) {
   header {
