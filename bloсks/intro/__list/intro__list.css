@@ -1,11 +1,11 @@
-.list {
+.intro__list {
   list-style: none;
   margin: 33px 0 0;
   padding: 0;
 }
 
-@media screen and (max-width: 373px) {
-  .list {
+@media screen and (max-width: 675px) {
+  .intro__list {
     margin: 34px 0 0;
   }
 }
